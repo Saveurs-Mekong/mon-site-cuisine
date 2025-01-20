@@ -4,10 +4,28 @@ index.html
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mon Site Asia</title>
+    <title>Saveurs Mekong - Cuisine du Sud-Est Asiatique</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Bienvenue sur le site Asia Fast Food 66</h1>
-    <p>Découvrez nos plats asiatiques authentiques du sud de l'Asie.</p>
+    <header>
+        <h1>Bienvenue chez Saveurs Mekong</h1>
+        <p>Nous vous proposons des plats traditionnels du Sud-Est asiatique sur les marchés des Pyrénées-Orientales.</p>
+    </header>
+    
+    <section id="specialites">
+        <h2>Nos Spécialités</h2>
+        <ul>
+            <li>Pho</li>
+            <li>Riz au curry</li>
+            <li>Nem</li>
+            <li>Et bien plus encore...</li>
+        </ul>
+    </section>
+    
+    <footer>
+        <p>Contactez-nous ou visitez-nous sur le marché de Le Barcarès !</p>
+    </footer>
 </body>
 </html>
+
