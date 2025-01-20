@@ -9,22 +9,11 @@ index.html
 </head>
 <body>
     <header>
-        <h1>TEST</h1>
-        <p>Nous vous proposons des plats traditionnels du Sud-Est asiatique sur les marchés des Pyrénées-Orientales.</p>
+        <h1>Bienvenue chez Saveurs Mekong</h1>
+        <p>Nous proposons des plats de cuisine du Sud-Est asiatique sur les marchés des Pyrénées-Orientales.</p>
     </header>
-    
-    <section id="specialites">
-        <h2>Nos Spécialités</h2>
-        <ul>
-            <li>Pho</li>
-            <li>Riz au curry</li>
-            <li>Nem</li>
-            <li>Et bien plus encore...</li>
-        </ul>
-    </section>
-    
     <footer>
-        <p>Contactez-nous ou visitez-nous sur le marché de Le Barcarès !</p>
+        <p>&copy; 2025 Saveurs Mekong - Tous droits réservés</p>
     </footer>
 </body>
 </html>
