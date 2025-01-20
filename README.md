@@ -1,5 +1,3 @@
-# mon-site-asia
-Site pour promouvoir ma cuisine asiatique
 <!DOCTYPE html>
 <html lang="fr">
 <head>
